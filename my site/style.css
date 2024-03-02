@@ -1,0 +1,115 @@
+body{
+    margin: 0px;
+    font-family: 'Merriweather sans', san serif;
+    font-size: 1.5em;
+}
+
+.myprofil{
+    background-color:#539165;
+    text-align: center;
+}
+.img1{
+margin-top: 50px;
+position: relative;
+left: 300px;
+}
+.img2{
+    position: relative;
+    bottom: 300px;
+    
+
+}
+img3{
+
+}
+h1{
+    font-size: 60px;;
+    font-family: 'Sacramento', cursive;
+    color:#F7C04A;
+}
+.h3{
+    font-family: 'Sacramento', cursive;
+    color:#F7C04A;
+}.apro{color: #F7C04A;font-weight: bold;}
+.middle-container{
+    text-align: center;
+}h3{
+    color: #F7C04A;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin-left: 25%;
+}
+.skillimg{
+    width: 200px;
+    height: 200px;
+   float: left;
+   
+}
+.chillimg{
+    float: right;
+    
+    width: 200px;
+    height: 200px;
+}
+.dj{
+width: 150px;
+height: 150px;
+margin-top: 30px;
+}
+.profile{
+    width: 30%;
+    margin-left: 35%;
+}
+middle-container{
+    background-color: #F8F5E4;
+}h2{
+    color: #F7C04A;
+}hr{
+    width: 60px;
+    border-style: dotted;
+    border-top: none;
+    border-width: 5px;
+    border-color: #3F497F;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.contact-me{
+width: 40%;
+margin-left: 30%;
+
+}.buton{
+background-color: #539165;
+width: 10%; 
+margin-bottom: 80px;  
+margin-top: 50px; 
+height:35px;
+border-radius: 5px;
+text-align: center;
+margin-left: 45%;
+}.btn{
+    text-decoration: none;
+    color: #F8F5E4;
+    font-size: 0.8em;
+}
+
+.bottom-container{
+    background-color: #539165;
+    text-align: center;
+    padding-top: 30px;
+   
+}
+.footer-link{
+    text-decoration: none;
+    color:#F7C04A;
+    margin: 30px;
+    font-size: 0.8em;
+
+}.name{
+    color: #F8F5E4;
+    margin-top: 40px;
+    padding-bottom: 40px;
+    font-size: 0.5em;
+
+}
